@@ -11,9 +11,13 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 *Data
 
 Library of Plants
+
 Camera / Iamges
+
 Graphic Design
+
 Color
+
 Account information(favorite / history Scan information)
 
 
