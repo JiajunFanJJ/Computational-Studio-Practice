@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
 
 *Data
+
 Library of Plants
 Camera / Iamges
 Graphic Design
@@ -16,6 +17,7 @@ Account information(favorite / history Scan information)
 
 
 *Render
+
 Scan Iamge button / Camera button
 Five menus on the bottom
 Iamges
@@ -24,6 +26,7 @@ Iamges
 
 
 *Events
+
 Touch camera button to take a photo
 Touch iamge library to select a photo
 Two figure to zoom in / out
