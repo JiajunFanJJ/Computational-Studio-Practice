@@ -56,7 +56,9 @@ https://www.youtube.com/watch?v=Wb-C3khvuFM
 
 ***
 
-Summary
+Summary：
+
+It is a game by using facial recognition. When a player stand in front of the camera, and the camera recognize the face for 3 seconds, the game would start.
 
 Physical Parts / Components
 
