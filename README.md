@@ -6,14 +6,14 @@ WEEK1
 
 recognize plants
 
-https://www.youtube.com/watch?v=5YJ1O3oKt_I
+https://www.youtube.com/watch?v=Y3EIF4_JSsQ
 
 
 ***
 
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
-| Library of Plants                   | Scan Iamge button / Camera button |  | Touch camera button to take a photo |
+| Library of Plants (information)     | Scan Iamge button / Camera button |  | Touch camera button to take a photo |
 | Camera / Iamges                     | Five menus on the bottom          |  | Touch iamge library to select a photo |
 | Graphic Design                      | Iamges                            |  | Two figure to zoom in / out |
 | Color                               |                                   |  | Slide up and down |
