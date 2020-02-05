@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8Fg
 | Which parts / areas have reactions when player touches |
 
 ***
+***
 
 WEEK2
 
@@ -60,11 +61,25 @@ Summary：
 
 It is a game by using facial recognition. When a player stand in front of the camera, and the camera recognize the face for 3 seconds, the game would start.
 
-Physical Parts / Components
+***
 
-Deconstruction System Diagram
+Physical Parts / Components:
 
-what's going to be hard / uncertain
+Camera
+
+***
+
+Deconstruction System Diagram:
+
+| __Data__ | __Render__ | __Simulation__ | __Events__ |
+|----------|------------|----------------|------------|
+|Facial 
+
+***
+
+what's going to be hard / uncertain?
+
+***
 
 Timeline
 
