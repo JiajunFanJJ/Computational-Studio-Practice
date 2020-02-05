@@ -43,15 +43,11 @@ https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8Fg
 ***
 ***
 
-WEEK2
-
-***
-
 Final Project Proposal
 
 ***
 
-Reference 
+Reference: 
 
 https://www.youtube.com/watch?v=Wb-C3khvuFM
 
@@ -71,9 +67,12 @@ Camera
 
 Deconstruction System Diagram:
 
-| __Data__ | __Render__ | __Simulation__ | __Events__ |
-|----------|------------|----------------|------------|
-|Facial 
+| __Data__                 | __Render__ | __Simulation__ | __Events__ |
+|--------------------------|------------|----------------|------------|
+| Facial recognition spots |  |  | Match the patterns to get scores |
+| Three seconds warning |
+| Camera |
+| Faical emotions / patterns |
 
 ***
 
