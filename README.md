@@ -50,3 +50,14 @@ Final Project Proposal
 
 ***
 
+Summary
+
+Physical Parts / Components
+
+Deconstruction System Diagram
+
+what's going to be hard / uncertain
+
+Timeline
+
+
