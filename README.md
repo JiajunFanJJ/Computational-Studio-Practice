@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Wb-C3khvuFM
 
 Summary：
 
-It is a game by using facial recognition. When a player stand in front of the camera, and the camera recognize the face for 3 seconds, the game would start.
+It is a game by using facial recognition. When a player stand in front of the camera, and the camera recognize the face for 3 seconds, the game would start. When the player's face matches with a kind 
 
 ***
 
