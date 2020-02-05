@@ -50,6 +50,12 @@ Final Project Proposal
 
 ***
 
+Reference 
+
+https://www.youtube.com/watch?v=Wb-C3khvuFM
+
+***
+
 Summary
 
 Physical Parts / Components
